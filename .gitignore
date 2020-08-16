@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+/rogueLike2d/*
+!/rogueLike2d/README.md
+
